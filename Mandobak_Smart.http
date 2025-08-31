@@ -1,0 +1,6 @@
+@Mandobak_Smart_HostAddress = http://localhost:5153
+
+GET {{Mandobak_Smart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
